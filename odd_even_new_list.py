@@ -18,6 +18,5 @@ for i in list_2:
     if int(i) % 2 == 0:
         # append it to the new list
         new_list.append(i)
-        
-# append it to the new list
 # print the new list
+print(f"Your new list now contains the following: ",new_list)
